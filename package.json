@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "cp -R src/assets dist/assets && parcel serve src/index.html"
+    "serve": "cp -R src/assets dist/assets && parcel serve src/index.html",
+    "start": "cp -R src/assets dist/assets && parcel serve src/index.html"
   },
   "keywords": [],
   "author": "",
